@@ -1,0 +1,28 @@
+<inventoryImport timestamp="08/05/2015" counttime="2015-05-08 17:55:12" id="008">
+    <items>
+            <item id="00005-030" count="307.00">
+                <locationCount locid="3" caseCount="306.00" sleeveCount="0.00" looseCount="1.00"/>
+                <locationCount locid="10" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+            </item>
+            <item id="00006-135" count="178.00">
+                <locationCount locid="3" caseCount="118.00" sleeveCount="59.00" looseCount="1.00"/>
+            </item>
+            <item id="00112-027" count="81.00">
+                <locationCount locid="3" caseCount="0.00" sleeveCount="80.00" looseCount="1.00"/>
+                <locationCount locid="4" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+                <locationCount locid="10" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+            </item>
+            <item id="00507-009" count="721.00">
+                <locationCount locid="3" caseCount="640.00" sleeveCount="80.00" looseCount="1.00"/>
+            </item>
+            <item id="05875-015" count="88.00">
+                <locationCount locid="3" caseCount="88.00" sleeveCount="0.00" looseCount="0.00"/>
+            </item>
+            <item id="08549-021" count="14.00">
+                <locationCount locid="3" caseCount="12.00" sleeveCount="1.00" looseCount="1.00"/>
+                <locationCount locid="4" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+                <locationCount locid="12" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+                <locationCount locid="18" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+            </item>
+    </items>
+</inventoryImport>

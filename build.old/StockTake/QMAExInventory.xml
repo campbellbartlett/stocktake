@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<inventoryExport timestamp="2015-07-30T11:58:00" ip="172.16.3.129">
+<items>
+<item id="00004-531" status="A" uom="Kg's" caseunits="12" sleeveunits="3" countunits="Y" freq="D" name="FRIES FRENCH 4X3KG M #4531">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="00005-030" status="A" uom="Each" caseunits="306" sleeveunits="0" countunits="Y" freq="D" name="BEEF PATTIES 10:1 O #5030">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="00006-135" status="A" uom="Each" caseunits="118" sleeveunits="59" countunits="Y" freq="M" name="BEEF 4:1 DBL LINER O #6135">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="00006-336" status="A" uom="Each" caseunits="118" sleeveunits="59" countunits="Y" freq="M" name="BEEF PATTIES 4:1 ANGUS O #6336">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="00007-669" status="A" uom="Each" caseunits="162" sleeveunits="18" countunits="Y" freq="D" name="CHICK PATTIES 162 #7669">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="00008-132" status="A" uom="Each" caseunits="120" sleeveunits="0" countunits="Y" freq="M" name="FISH FILET 120 90:10 #8132">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="00009-027" status="A" uom="Can" caseunits="20" sleeveunits="0" countunits="Y" freq="M" name="SAUCE TARTAR LOW OIL 20 #9027">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="00010-015" status="A" uom="Can" caseunits="20" sleeveunits="0" countunits="Y" freq="W" name="SAUCE CHICK LOW OIL 20 #10015">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="00011-267" status="A" uom="Litres" caseunits="10" sleeveunits="10" countunits="Y" freq="D" name="SHAKE MIX 10L NSW/VIC/Q #11267">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00012-348" status="A" uom="Litres" caseunits="10" sleeveunits="10" countunits="Y" freq="D" name="SUNDAE MIX NSW/VC/Q 10L #12348">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00013-228" status="A" uom="Each" caseunits="1008" sleeveunits="84" countunits="Y" freq="W" name="CHEESE SLICE LSOD #13228">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="00013-264" status="A" uom="Each" caseunits="576" sleeveunits="72" countunits="Y" freq="M" name="CHEESE COON 8X72 #13264">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="10" description="Back Area" Order="10"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="00014-132" status="A" uom="Each" caseunits="60" sleeveunits="12" countunits="Y" freq="D" name="MUFFIN ENGLISH W/ML FZ #14132">
+<Location locid="2" description="Buns" Order="2"/>
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="00019-067" status="A" uom="Litres" caseunits="15" sleeveunits="0" countunits="Y" freq="M" name="SYRUP COCA COLA 15L #19067">
+<Location locid="13" description="coke syrups" Order="310"/>
+</item>
+<item id="00021-079" status="A" uom="Litres" caseunits="15" sleeveunits="0" countunits="Y" freq="M" name="SYRUP FANTA ORANGE 15L #21079">
+<Location locid="13" description="coke syrups" Order="310"/>
+</item>
+<item id="00022-039" status="A" uom="Each" caseunits="600" sleeveunits="25" countunits="Y" freq="M" name="CUP COFF EP/PR SML #22039">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00023-048" status="A" uom="Each" caseunits="400" sleeveunits="20" countunits="Y" freq="M" name="CONES SOFT SERVE 400 #23048">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00026-080" status="A" uom="Packets" caseunits="24" sleeveunits="1" countunits="Y" freq="M" name="SAUCE MUSTARD 24X454G #26080">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00028-081" status="A" uom="Kg's" caseunits="5" sleeveunits="1.25" countunits="Y" freq="D" name="PROD ONION FRSH 4X1.25K #28081">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="00029-102" status="A" uom="Kg's" caseunits="12" sleeveunits="2" countunits="Y" freq="M" name="COND SALT FRY 12KG C #29102">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00033-037" status="A" uom="Each" caseunits="120" sleeveunits="20" countunits="Y" freq="M" name="SYRUP HOT CAKE #33037">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00035-012" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="BUTTER WHIPPED 500 PTNS #35012">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="00035-016" status="A" uom="Each" caseunits="200" sleeveunits="0" countunits="Y" freq="M" name="BUTTER WESTERN STAR 8G #35016">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="00036-068" status="A" uom="Kg's" caseunits="10.8" sleeveunits="1.8" countunits="Y" freq="M" name="GHEE 6X1.8KG F #36068">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00038-014" status="A" uom="Each" caseunits="300" sleeveunits="75" countunits="Y" freq="M" name="COND JAM STRWBRRY YVJ#38014">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00042-046" status="A" uom="Litres" caseunits="15" sleeveunits="0" countunits="Y" freq="M" name="SYRUP DIET COKE 15L #42046">
+<Location locid="13" description="coke syrups" Order="310"/>
+</item>
+<item id="00042-120" status="A" uom="Litres" caseunits="15" sleeveunits="0" countunits="Y" freq="M" name="SYRUP COKE ZERO 15L #42120">
+<Location locid="13" description="coke syrups" Order="310"/>
+</item>
+<item id="00043-015" status="A" uom="Each" caseunits="2000" sleeveunits="2000" countunits="Y" freq="M" name="COND SALT PKTS 2000 #43015">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00044-090" status="A" uom="Each" caseunits="2000" sleeveunits="0" countunits="Y" freq="M" name="COND PEPPER PKTS 2000 #44090">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00045-060" status="A" uom="Each" caseunits="1680" sleeveunits="0" countunits="Y" freq="M" name="KETCHUP PACKET M #45060">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00047-225" status="A" uom="Each" caseunits="2600" sleeveunits="2600" countunits="Y" freq="M" name="COND SUGAR SACHET 2600 #47225">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00055-186" status="A" uom="Can" caseunits="20" sleeveunits="0" countunits="Y" freq="M" name="SAUCE BIG MAC LOIL 1975 #55186">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="00056-012" status="A" uom="Packets" caseunits="32" sleeveunits="0" countunits="Y" freq="M" name="PROD ONION DEHYD 12OZ #56012">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00057-105" status="A" uom="Each" caseunits="1000" sleeveunits="0" countunits="Y" freq="M" name="TEABAGS DILMAH 1000 #57105">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00057-198" status="A" uom="Each" caseunits="100" sleeveunits="20" countunits="Y" freq="M" name="CAF TEABAGS JASMIN GRN #57198">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00060-093" status="A" uom="Litres" caseunits="12.6" sleeveunits="4.2" countunits="Y" freq="M" name="SHAKE SYRUP VAN 3X4.2L #60093">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00061-046" status="A" uom="Litres" caseunits="12.6" sleeveunits="4.2" countunits="Y" freq="M" name="SHAKE SYRUP CHOC 3X4.2L #61046">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00062-014" status="A" uom="Litres" caseunits="12.6" sleeveunits="4.2" countunits="Y" freq="M" name="SHAKE SYRUP S/BER 3X4.2L#62014">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00063-111" status="A" uom="Packets" caseunits="8" sleeveunits="1" countunits="Y" freq="M" name="PROD PICKLES POUCH AFF #63111">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="00063-189" status="A" uom="Each" caseunits="400" sleeveunits="50" countunits="Y" freq="M" name="PROD PICKLES ELONGATED  #63189">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00067-201" status="A" uom="Litres" caseunits="11.18" sleeveunits="0.932" countunits="Y" freq="M" name="TOPPING S/BRY 12X1.1KG #67201">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00069-035" status="A" uom="Litres" caseunits="11.18" sleeveunits="0.932" countunits="Y" freq="M" name="TOPPING CARM 12X1.29KG #69035">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00070-177" status="A" uom="Each" caseunits="192" sleeveunits="32" countunits="Y" freq="M" name="HASH BROWN 192 6X2KG M #70177">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="00076-035" status="A" uom="Each" caseunits="140" sleeveunits="20" countunits="Y" freq="M" name="PIE APPLE 140 #76035">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="00078-009" status="A" uom="Each" caseunits="140" sleeveunits="0" countunits="Y" freq="M" name="COOKIE BOXES 140 #78009">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00108-054" status="A" uom="Each" caseunits="160" sleeveunits="16" countunits="Y" freq="M" name="CAF BREAD HELGA WHITE #108054">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="00111-795" status="A" uom="Each" caseunits="480" sleeveunits="20" countunits="Y" freq="M" name="CAF CUP STANDARD 2011 #111795">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00112-027" status="A" uom="Each" caseunits="400" sleeveunits="80" countunits="Y" freq="M" name="BACON RASHER 5X80 #112027">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="00116-051" status="A" uom="Each" caseunits="2000" sleeveunits="100" countunits="Y" freq="M" name="LID REG 12OZ #116051">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00116-071" status="A" uom="Each" caseunits="1500" sleeveunits="75" countunits="Y" freq="M" name="LID SML FRAPPE #116071">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00117-042" status="A" uom="Each" caseunits="2000" sleeveunits="100" countunits="Y" freq="M" name="LID MED/LGE #117042">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00117-261" status="A" uom="Each" caseunits="1050" sleeveunits="70" countunits="Y" freq="W" name="LID CLEAR FLAT 92MM #117261">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00127-408" status="A" uom="Each" caseunits="10000" sleeveunits="10000" countunits="Y" freq="M" name="BAG FRIES SMALL GQG #127408">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00128-884" status="A" uom="Each" caseunits="2000" sleeveunits="500" countunits="Y" freq="M" name="BAG NO 4 BRAND AMBITION#128884">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00132-032" status="A" uom="Litres" caseunits="15" sleeveunits="15" countunits="Y" freq="W" name="JUICE ORANGE 15LTR #132032">
+<Location locid="13" description="coke syrups" Order="310"/>
+</item>
+<item id="00134-792" status="A" uom="Kg's" caseunits="2.4" sleeveunits="0.3" countunits="Y" freq="M" name="PROD SALAD LCCM 2.4K G #134792">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="00134-795" status="A" uom="Kg's" caseunits="4" sleeveunits="1" countunits="Y" freq="D" name="PROD SALAD DLM 4KG GSF #134795">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="00141-846" status="A" uom="Each" caseunits="250" sleeveunits="250" countunits="Y" freq="M" name="BAG B/FAST BRAND AMBITN#141846">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00141-972" status="A" uom="Each" caseunits="200" sleeveunits="200" countunits="Y" freq="M" name="BAG D HANDLES CYT #141972">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00141-975" status="A" uom="Each" caseunits="500" sleeveunits="500" countunits="Y" freq="M" name="BAG RC LUNCH BUNDLES #141975">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00155-412" status="A" uom="Each" caseunits="1000" sleeveunits="50" countunits="Y" freq="M" name="CUP SMALL 12OZ GQG #155412">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00163-571" status="A" uom="Each" caseunits="1600" sleeveunits="1" countunits="Y" freq="M" name="BOX FRIES MEDIUM GQG #163571">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00166-222" status="A" uom="Each" caseunits="1590" sleeveunits="0" countunits="Y" freq="M" name="BOX PIE APPLE GQG #166222">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00168-070" status="A" uom="Litres" caseunits="15" sleeveunits="0" countunits="Y" freq="M" name="SYRUP SPRITE 15L #168070">
+<Location locid="13" description="coke syrups" Order="310"/>
+</item>
+<item id="00170-074" status="A" uom="Each" caseunits="5000" sleeveunits="250" countunits="Y" freq="M" name="STIRRER 140MM 250x20  #170074">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00187-053" status="A" uom="Each" caseunits="408" sleeveunits="17" countunits="Y" freq="M" name="CUP COFF EP/PR TALL #187053">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00187-150" status="A" uom="Each" caseunits="408" sleeveunits="17" countunits="Y" freq="M" name="CAF CUP TALL 2011 #187150">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00193-483" status="A" uom="Each" caseunits="6000" sleeveunits="500" countunits="Y" freq="M" name="NAPKIN XPRESSNAP  #193483">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00222-059" status="A" uom="Each" caseunits="5000" sleeveunits="5000" countunits="Y" freq="M" name="STRAWS BULK 5000 #222059">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00232-960" status="A" uom="Each" caseunits="600" sleeveunits="25" countunits="Y" freq="M" name="CAF CUP SMALL 2011 #232960">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00254-033" status="A" uom="Each" caseunits="2000" sleeveunits="100" countunits="Y" freq="M" name="KNIFE PLASTIC SERRATED #254033">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00258-040" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="BASE BREAKFAST  #258040">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00261-063" status="A" uom="Each" caseunits="1320" sleeveunits="55" countunits="Y" freq="M" name="CUP SUNDAE SMALL #261063">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00264-082" status="A" uom="Each" caseunits="500" sleeveunits="500" countunits="Y" freq="M" name="LID BREAKFAST GQG #264082">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00268-966" status="A" uom="Each" caseunits="800" sleeveunits="0" countunits="Y" freq="M" name="CLAM NUGGET 6PC 2013 #268966">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00283-018" status="A" uom="Litres" caseunits="13.5" sleeveunits="1" countunits="Y" freq="M" name="SPRAY OIL BAKELS #283018">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00284-522" status="A" uom="Each" caseunits="3000" sleeveunits="1000" countunits="Y" freq="M" name="WRAP HAMBURGER G/S #284522">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00285-459" status="A" uom="Each" caseunits="5000" sleeveunits="1000" countunits="Y" freq="W" name="WRAP C/BURGER G/S #285459">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00295-325" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="CLAM BIG MAC NEW #295325">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00296-648" status="A" uom="Each" caseunits="500" sleeveunits="1" countunits="Y" freq="W" name="CLAM QTR POUNDER NEW #296648">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00311-507" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="CLAM FILET O FISH NEW #311507">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00312-021" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="W" name="CLAM MIGHTY MCMUFFIN #312021">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00325-056" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="W" name="CLAM GEN SMALL NEW #325056">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00335-120" status="A" uom="Each" caseunits="1000" sleeveunits="50" countunits="Y" freq="M" name="LID SUNDAE #335120">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00350-000" status="A" uom="Each" caseunits="1000" sleeveunits="100" countunits="Y" freq="M" name="SPOON PLASTIC BULK #350000   ">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00350-102" status="A" uom="Each" caseunits="500" sleeveunits="100" countunits="Y" freq="W" name="SPOON YELLOW DESSERT PP#350102">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00353-000" status="A" uom="Each" caseunits="1000" sleeveunits="100" countunits="Y" freq="M" name="FORK PLASTIC BULK #353000">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00354-024" status="A" uom="Each" caseunits="1000" sleeveunits="100" countunits="Y" freq="M" name="CAF SPOON LONG BLACK #354024">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="00360-121" status="A" uom="Each" caseunits="500" sleeveunits="1" countunits="Y" freq="M" name="CLAM MCCHICKEN #360121">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00385-071" status="A" uom="Each" caseunits="2000" sleeveunits="2000" countunits="Y" freq="M" name="TISSUE CONE WRAP #385071">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00397-012" status="A" uom="Each" caseunits="250" sleeveunits="0" countunits="Y" freq="M" name="TRAY 4 CUP #397012">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00406-090" status="A" uom="Can" caseunits="12" sleeveunits="1" countunits="Y" freq="M" name="CREAM WHIP 12x400G #406090">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="00407-567" status="A" uom="Each" caseunits="672" sleeveunits="24" countunits="Y" freq="D" name="CHICK NUGGET 28x480G I #407567">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="00408-074" status="A" uom="Each" caseunits="250" sleeveunits="0" countunits="Y" freq="M" name="SAUCE NUGT BBQ 250 GSF #408074">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00409-050" status="A" uom="Each" caseunits="250" sleeveunits="0" countunits="Y" freq="M" name="SAUCE SWT N SOUR 250 G #409050">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00410-008" status="A" uom="Each" caseunits="200" sleeveunits="0" countunits="Y" freq="M" name="SAUCE NGTSWT MST 200 G #410008">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00411-096" status="A" uom="Each" caseunits="300" sleeveunits="75" countunits="Y" freq="M" name="COND HONEY YVJ#411096">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00415-096" status="A" uom="Litres" caseunits="12.6" sleeveunits="4.2" countunits="Y" freq="M" name="SHAKE SYRUP BANA 3X4.2L#415096">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00419-047" status="A" uom="Each" caseunits="204" sleeveunits="1" countunits="Y" freq="M" name="COND MAYO SACHETS #419047">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00472-021" status="A" uom="Kg's" caseunits="8.1" sleeveunits="0.675" countunits="Y" freq="M" name="SAUCE CHIPOTLE MAYO #472021">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="00483-294" status="A" uom="Each" caseunits="100" sleeveunits="100" countunits="Y" freq="M" name="CLAM WINDOW FACE CYT #483294">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00491-060" status="A" uom="Each" caseunits="3000" sleeveunits="1000" countunits="Y" freq="W" name="WRAP MULTI BFAST G/S #491060">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00507-009" status="A" uom="Each" caseunits="640" sleeveunits="80" countunits="Y" freq="M" name="BACON CRISPY #507009">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="00512-033" status="A" uom="Kg's" caseunits="4" sleeveunits="1" countunits="Y" freq="M" name="NOODLES FRIED 4X1KG #512033">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00555-087" status="A" uom="Kg's" caseunits="6" sleeveunits="1" countunits="Y" freq="M" name="COND SUGAR BULK 6X1KG #555087">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00606-034" status="A" uom="Litres" caseunits="0.3" sleeveunits="0.3" countunits="Y" freq="M" name="CREAM THICK LIGHT 300ML#606034">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="00674-063" status="A" uom="Each" caseunits="1300" sleeveunits="1" countunits="Y" freq="M" name="TRAY CONE SOFT SERVE #674063">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00700-027" status="A" uom="Kg's" caseunits="5" sleeveunits="1" countunits="Y" freq="M" name="FETA CRUMBLED 5X1KG #700027">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="00718-007" status="A" uom="Each" caseunits="1200" sleeveunits="200" countunits="Y" freq="M" name="CHOCOLATE FLAKE 8.5G C #718007">
+<Location locid="7" description="Office Supplies" Order="7"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="00718-042" status="A" uom="Packets" caseunits="12" sleeveunits="1" countunits="Y" freq="M" name="TOPPING CRUNCH 12X600G #718042">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00731-333" status="A" uom="Each" caseunits="2000" sleeveunits="1000" countunits="Y" freq="W" name="CAF WRAP McCAFE 2010 #731333">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00731-477" status="A" uom="Each" caseunits="2000" sleeveunits="1000" countunits="Y" freq="M" name="WRAP GENERIC RED G/S #731477">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00783-027" status="A" uom="Kg's" caseunits="5.4" sleeveunits="5.396" countunits="Y" freq="W" name="TRIAL SOUP MINESTRONE #783027">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="00821-393" status="A" uom="Each" caseunits="800" sleeveunits="40" countunits="Y" freq="M" name="CUP LARGE 22OZ CYT #821393">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00854-051" status="A" uom="Each" caseunits="72" sleeveunits="1" countunits="Y" freq="M" name="DRESSING ITALIAN #854051">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="00863-081" status="A" uom="Each" caseunits="24" sleeveunits="4" countunits="Y" freq="M" name="CAF MUFFIN BLUEBERRY 24#863081">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="00867-012" status="A" uom="Kg's" caseunits="3.88" sleeveunits="0.162" countunits="Y" freq="W" name="DRESSING C/CAESAR 250ML#867012">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="00987-093" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="CAF BOX PASTRY #987093">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="01007-041" status="A" uom="Kg's" caseunits="8" sleeveunits="1" countunits="Y" freq="D" name="COFFEE BEAN 2011 #1007041">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="01037-039" status="A" uom="Each" caseunits="3000" sleeveunits="1000" countunits="Y" freq="M" name="WRAP MINI SNACK PE #1037039">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="01116-297" status="A" uom="Kg's" caseunits="2.4" sleeveunits="0.2" countunits="Y" freq="M" name="SAUCE PESTO MAYO 200G #1116297">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="01138-033" status="A" uom="Kg's" caseunits="5.4" sleeveunits="5.396" countunits="Y" freq="W" name="TRIAL SOUP TOM BASIL #1138033">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="01139-826" status="A" uom="Each" caseunits="1200" sleeveunits="1" countunits="Y" freq="M" name="BOX FRIES LARGE GQG #1139826">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="01179-153" status="A" uom="Each" caseunits="3000" sleeveunits="1000" countunits="Y" freq="M" name="WRAP DBL C/BURGER G/S #1179153">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="01208-013" status="A" uom="Each" caseunits="360" sleeveunits="90" countunits="Y" freq="M" name="LID PLASTIC SML/GDN  #1208013">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="01219-061" status="A" uom="Kg's" caseunits="1" sleeveunits="1" countunits="Y" freq="M" name="CAF DECAF R&amp;G 2011 #1219061">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="01395-055" status="A" uom="Kg's" caseunits="6" sleeveunits="1" countunits="Y" freq="M" name="CHICK PCE BREAST I #1395055">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="01395-058" status="A" uom="Each" caseunits="112" sleeveunits="16" countunits="Y" freq="D" name="CHICK CRISPY I 112 #1395058">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="01465-048" status="A" uom="Kg's" caseunits="6" sleeveunits="0.5" countunits="Y" freq="M" name="SAUCE GARLCMAYO12X500G#1465048">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="01490-027" status="A" uom="Kg's" caseunits="5" sleeveunits="0.5" countunits="Y" freq="M" name="SAUCE SOUTH WEST #1490027">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="01490-030" status="A" uom="Kg's" caseunits="3.88" sleeveunits="0.162" countunits="Y" freq="W" name="DRESSING STHWST 250ML #1490030">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="01503-004" status="A" uom="Kg's" caseunits="6" sleeveunits="1" countunits="Y" freq="M" name="CHEESE PARMESAN 6X1KG #1503004">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="01637-017" status="A" uom="Each" caseunits="240" sleeveunits="30" countunits="Y" freq="M" name="CHICK VALUE 55G OSI #1637017">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="01664-003" status="A" uom="Each" caseunits="80" sleeveunits="1" countunits="Y" freq="M" name="DRESSING SWET SES PKT #1664003">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="01665-015" status="A" uom="Each" caseunits="2000" sleeveunits="100" countunits="Y" freq="M" name="LID COFFEE 3 IN 1 #1665015">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="01721-009" status="A" uom="Each" caseunits="140" sleeveunits="20" countunits="Y" freq="M" name="PIE APP RASP BBRY CUS #1721009">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="01782-048" status="A" uom="Litres" caseunits="5" sleeveunits="0.5" countunits="Y" freq="M" name="TOPPING BANANA 500ML #1782048">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="01782-054" status="A" uom="Each" caseunits="12" sleeveunits="1" countunits="Y" freq="W" name="CUSTARD BANANA 70G #1782054">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="01809-027" status="A" uom="Each" caseunits="24" sleeveunits="6" countunits="Y" freq="M" name="JUICE APP 24X250ML NC #1809027">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="12" description="Cafe " Order="210"/>
+<Location locid="18" description="d/thru fridge" Order="810"/>
+</item>
+<item id="01960-013" status="A" uom="Each" caseunits="72" sleeveunits="1" countunits="Y" freq="M" name="DRESSING BALSAMIC #1960013">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="01960-034" status="A" uom="Kg's" caseunits="5.28" sleeveunits="0.44" countunits="Y" freq="W" name="DRESSING BALSAM 500ML #1960034">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02000-018" status="A" uom="Kg's" caseunits="5.28" sleeveunits="0.44" countunits="Y" freq="W" name="DRESSING DIJION 500ML #2000018">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02025-078" status="A" uom="Kg's" caseunits="9" sleeveunits="3" countunits="Y" freq="M" name="PROD DICED APPLE #2025078">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02056-006" status="A" uom="Kg's" caseunits="4" sleeveunits="1" countunits="Y" freq="M" name="TOPPING MINI BANANA #2056006">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02113-033" status="A" uom="Each" caseunits="900" sleeveunits="60" countunits="Y" freq="M" name="LID LGE FRP/ALL FSB #2113033">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="02148-015" status="A" uom="Each" caseunits="30" sleeveunits="1" countunits="Y" freq="M" name="CAF BITE SIZE CARAMEL #2148015">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="02380-000" status="A" uom="Each" caseunits="200" sleeveunits="1" countunits="Y" freq="M" name="CRANBERRIES &amp; RAISINS #2380000">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02382-009" status="A" uom="Each" caseunits="72" sleeveunits="12" countunits="Y" freq="M" name="CAF MACARON CAPPUCINO #2382009">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="02393-045" status="A" uom="Each" caseunits="480" sleeveunits="40" countunits="Y" freq="M" name="CUP OATMEAL #2393045">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02481-084" status="A" uom="Kg's" caseunits="15.12" sleeveunits="3.78" countunits="Y" freq="M" name="PROD PEPPERS 4X3.78L #2481084">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02545-000" status="A" uom="Each" caseunits="150" sleeveunits="1" countunits="Y" freq="M" name="OATMEAL MAPLE BROWN #2545000">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02601-090" status="A" uom="Bottles" caseunits="6" sleeveunits="1" countunits="Y" freq="M" name="CAF SYRUP VANILLA 6PK #2601090">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="02603-054" status="A" uom="Bottles" caseunits="6" sleeveunits="1" countunits="Y" freq="M" name="CAF SYRUP HAZELNUT 6PK#2603054">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="02630-081" status="A" uom="Each" caseunits="120" sleeveunits="20" countunits="Y" freq="M" name="CAF TEABAGS ENG BFAST #2630081">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02679-059" status="A" uom="Litres" caseunits="10.52" sleeveunits="1" countunits="Y" freq="M" name="KETCHUP BULK M #2679059">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02683-061" status="A" uom="Each" caseunits="144" sleeveunits="12" countunits="Y" freq="M" name="TORTILLA 10IN 2013 #2683061">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="02748-087" status="A" uom="Each" caseunits="36" sleeveunits="12" countunits="Y" freq="M" name="CAF CAK IND C/CREAM #2748087">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="02820-132" status="A" uom="Each" caseunits="500" sleeveunits="500" countunits="Y" freq="M" name="STICKER G/SALAD 2010 #2820132">
+<Location locid="7" description="Office Supplies" Order="7"/>
+</item>
+<item id="02820-375" status="A" uom="Each" caseunits="1000" sleeveunits="1" countunits="Y" freq="M" name="LABEL ROLL BACON &amp; EGG#2820375">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02820-381" status="A" uom="Each" caseunits="1000" sleeveunits="1" countunits="Y" freq="M" name="LABEL DELUXE BREK RO_OLD ITEM!">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02826-072" status="A" uom="Each" caseunits="256" sleeveunits="256" countunits="Y" freq="M" name="CAF LID YOG PARFAIT #2826072">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02847-016" status="A" uom="Each" caseunits="288" sleeveunits="288" countunits="Y" freq="M" name="CAF BASE YOG PARFAIT #2847016">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="02896-048" status="A" uom="Litres" caseunits="7.57" sleeveunits="1" countunits="Y" freq="M" name="SYRUP BIB STRAW/BANA #2896048">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="02937-078" status="A" uom="Each" caseunits="500" sleeveunits="500" countunits="Y" freq="M" name="CAF BAG PASTRY 2013 #2937078">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="03016-037" status="A" uom="Kg's" caseunits="5.35" sleeveunits="0.535" countunits="Y" freq="M" name="SAUCE CHUNKY TOM #3016037">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="03017-011" status="A" uom="Litres" caseunits="11.35" sleeveunits="0.946" countunits="Y" freq="M" name="TOPPING CHOC 12X1.2KG #3017011">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="03041-012" status="A" uom="Each" caseunits="100" sleeveunits="10" countunits="Y" freq="M" name="CAF TOAST RAISIN 10X10#3041012">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="03067-276" status="A" uom="Each" caseunits="500" sleeveunits="1" countunits="Y" freq="M" name="CLAM CHICK MULTI NEW #3067276">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="03096-009" status="A" uom="Each" caseunits="1000" sleeveunits="0" countunits="Y" freq="M" name="COND SPLENDA PKT 1000 #3096009">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="03101-084" status="A" uom="Kg's" caseunits="4.25" sleeveunits="0.85" countunits="Y" freq="M" name="PROD COLESLAW KIT GSF #3101084">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="03114-074" status="A" uom="Each" caseunits="144" sleeveunits="12" countunits="Y" freq="M" name="TORTILLA 8IN 2013 #3114074">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="03143-066" status="A" uom="Packets" caseunits="12" sleeveunits="1" countunits="Y" freq="M" name="PROD MUSHROOMS #3143066">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="03168-018" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="CUTLERY SET 2PC #3168018">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="03183-030" status="A" uom="Kg's" caseunits="4.7" sleeveunits="0.47" countunits="Y" freq="M" name="SAUCE DIJONAISE10X470G#3183030">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="03236-007" status="A" uom="Each" caseunits="640" sleeveunits="40" countunits="Y" freq="M" name="CHEESE SWISS 16X600G #3236007">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="03237-086" status="A" uom="Litres" caseunits="15" sleeveunits="1" countunits="Y" freq="M" name="OIL CANOLA15L C #3237086">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="03270-027" status="A" uom="Each" caseunits="18000" sleeveunits="500" countunits="Y" freq="M" name="STICKER SPECIAL GRILL #3270027">
+<Location locid="6" description="Ops Cupboard" Order="1"/>
+</item>
+<item id="03282-021" status="A" uom="Each" caseunits="110" sleeveunits="10" countunits="Y" freq="M" name="CHICK BREAST SOUS VIDE#3282021">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="03312-006" status="A" uom="Kg's" caseunits="4.7" sleeveunits="0.47" countunits="Y" freq="M" name="SAUCE SPICY MAYO 470G #3312006">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="03313-024" status="A" uom="Each" caseunits="500" sleeveunits="50" countunits="Y" freq="M" name="CAF LID BABYCINO 5OZ #3313024">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="03393-003" status="A" uom="Kg's" caseunits="2" sleeveunits="0.04" countunits="Y" freq="M" name="COND LIQUID ONION #3393003">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="03439-171" status="A" uom="Each" caseunits="120" sleeveunits="12" countunits="Y" freq="D" name="CHICK MARIN BRST FILT #3439171">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="03439-210" status="A" uom="Each" caseunits="120" sleeveunits="12" countunits="Y" freq="W" name="CHICK GRILLED CYT #3439210">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="03470-087" status="A" uom="Kg's" caseunits="4.08" sleeveunits="0.34" countunits="Y" freq="M" name="TOPPING M&amp;M MINI 340G #3470087">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="03471-012" status="A" uom="Kg's" caseunits="10.9" sleeveunits="0.454" countunits="Y" freq="M" name="TOPPING OREO 24 #3471012">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="03496-016" status="A" uom="Packets" caseunits="15" sleeveunits="1" countunits="Y" freq="M" name="COND SEASONING 86:14 #3496016">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="03601-117" status="A" uom="Each" caseunits="120" sleeveunits="20" countunits="Y" freq="M" name="CAF HAM SLICES 6X300G #3601117">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="03757-000" status="A" uom="Each" caseunits="1000" sleeveunits="0" countunits="Y" freq="W" name="CLAM NUGGET 3PC GQG #3757000">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="03769-064" status="A" uom="Each" caseunits="24" sleeveunits="6" countunits="Y" freq="M" name="WATER 24X250ML PN NC #3769064">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="12" description="Cafe " Order="210"/>
+<Location locid="18" description="d/thru fridge" Order="810"/>
+</item>
+<item id="03771-039" status="A" uom="Each" caseunits="240" sleeveunits="1" countunits="Y" freq="M" name="MILK UHT PORTION 240 #3771039">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="03772-078" status="A" uom="Each" caseunits="40" sleeveunits="2" countunits="Y" freq="M" name="CAF DONUT CHOC 40 #3772078">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="03808-082" status="A" uom="Kg's" caseunits="9" sleeveunits="0.75" countunits="Y" freq="M" name="SAUCE TOM CHILLI JAM #3808082">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="03821-168" status="A" uom="Each" caseunits="500" sleeveunits="50" countunits="Y" freq="M" name="CAF CUP BABYCINO 2011 #3821168">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="03905-082" status="A" uom="Each" caseunits="500" sleeveunits="1" countunits="Y" freq="W" name="CLAM ANGUS MULTI NEW #3905082">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="03908-045" status="A" uom="Each" caseunits="160" sleeveunits="16" countunits="Y" freq="M" name="CAF BREAD HELGA WMEAL #3908045">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="03916-318" status="A" uom="Each" caseunits="60" sleeveunits="15" countunits="Y" freq="M" name="BUN BAKERS FRZ 15X4 #3916318">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="03951-081" status="A" uom="Litres" caseunits="15" sleeveunits="15" countunits="Y" freq="W" name="SYRUP FCB SOUR GRAPE #3951081">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="04039-084" status="A" uom="Each" caseunits="500" sleeveunits="1" countunits="Y" freq="M" name="CLAM MCFEAST/DBL QTR #4039084">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="04075-021" status="A" uom="Each" caseunits="180" sleeveunits="1" countunits="Y" freq="M" name="CAF COND JAM BERRIES #4075021">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="04180-082" status="A" uom="Kg's" caseunits="7.25" sleeveunits="0.725" countunits="Y" freq="M" name="SAUCE STHN STYLE BBQ#4180082">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="04216-072" status="A" uom="Each" caseunits="36" sleeveunits="12" countunits="Y" freq="M" name="ROLL BFAST FRENCH #4216072">
+<Location locid="2" description="Buns" Order="2"/>
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="04218-006" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="POUCH BREAKFAST ROLLS #4218006">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="04331-009" status="A" uom="Litres" caseunits="15" sleeveunits="0" countunits="Y" freq="M" name="SYRUP FCB C/COLA 15L #4331009">
+<Location locid="9" description="Front Counter" Order="9"/>
+<Location locid="13" description="coke syrups" Order="310"/>
+</item>
+<item id="04335-064" status="A" uom="Kg's" caseunits="10" sleeveunits="1" countunits="Y" freq="M" name="CAF POWDER HOT CHOC C #4335064">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="04356-018" status="A" uom="Litres" caseunits="4.33" sleeveunits="0.722" countunits="Y" freq="M" name="SYRUP APPLE ELDER 6PK#4356018">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="04357-021" status="A" uom="Litres" caseunits="7" sleeveunits="1.001" countunits="Y" freq="M" name="FRAP MIX COFF LD&amp;D #4357021">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="04382-036" status="A" uom="Litres" caseunits="7.5" sleeveunits="7.502" countunits="Y" freq="M" name="YOGHURT BIM 1X7.5L #4382036">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="04396-066" status="A" uom="Each" caseunits="24" sleeveunits="4" countunits="Y" freq="M" name="CAF MUFFIN MUD 24 #4396066">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="04410-036" status="A" uom="Kg's" caseunits="13" sleeveunits="1.3" countunits="Y" freq="D" name="STEAK STRIPS 10X1.3 O #4410036">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="04494-066" status="A" uom="Each" caseunits="250" sleeveunits="250" countunits="Y" freq="W" name="TRAY BRGR BAR MED NO3 #4494066">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="04494-069" status="A" uom="Each" caseunits="250" sleeveunits="250" countunits="Y" freq="W" name="TRAY BRGR BAR LRG NO4 #4494069">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="04569-021" status="A" uom="Each" caseunits="720" sleeveunits="40" countunits="Y" freq="M" name="CUP FSB LGE FRP/MED #4569021">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="04574-006" status="A" uom="Each" caseunits="648" sleeveunits="36" countunits="Y" freq="M" name="CUP FSB LGE FILL LINE #4574006">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="04588-009" status="A" uom="Each" caseunits="540" sleeveunits="90" countunits="Y" freq="M" name="COND VEGEMITE K #4588009">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="04617-027" status="A" uom="Each" caseunits="6" sleeveunits="1" countunits="Y" freq="M" name="CAKE ICE CREAM 6 #4617027">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="04681-009" status="A" uom="Each" caseunits="72" sleeveunits="12" countunits="Y" freq="M" name="CAF MACARON S/BRRY CRM#4681009">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="04711-006" status="A" uom="Each" caseunits="3000" sleeveunits="1000" countunits="Y" freq="M" name="WRAP MULTI 4 IN 1 GEN #4711006">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="04746-015" status="A" uom="Kg's" caseunits="8.1" sleeveunits="0.675" countunits="Y" freq="M" name="SAUCE HERB AIOLI #4746015">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="04938-028" status="A" uom="Kg's" caseunits="6" sleeveunits="1" countunits="Y" freq="M" name="CAF YOGHURT 6X1KG #4938028">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="04949-024" status="A" uom="Each" caseunits="252" sleeveunits="84" countunits="Y" freq="M" name="PROD BEETROOT CONT #4949024">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05099-087" status="A" uom="Each" caseunits="120" sleeveunits="20" countunits="Y" freq="M" name="CAF TEABAGS PEP/MINT #5099087">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05115-018" status="A" uom="Kg's" caseunits="12" sleeveunits="2" countunits="Y" freq="W" name="TRIAL SOUP PUMPKIN #5115018">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="05122-076" status="A" uom="Packets" caseunits="4" sleeveunits="1" countunits="Y" freq="W" name="PROD ONION RED GSF #5122076">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="05129-096" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="CAF BOX CAKES INDIVID #5129096">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05313-066" status="A" uom="Each" caseunits="3000" sleeveunits="500" countunits="Y" freq="M" name="STRAWS SCOOP CLEAR #5313066">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="05343-003" status="A" uom="Each" caseunits="500" sleeveunits="500" countunits="Y" freq="M" name="CAF STICKER YOGHURT #5343003">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05358-039" status="A" uom="Each" caseunits="192" sleeveunits="12" countunits="Y" freq="M" name="HOTCAKES FROZEN 192 #5358039">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="05376-018" status="A" uom="Each" caseunits="380" sleeveunits="95" countunits="Y" freq="M" name="CLAM SUMMER STEAK RO_OLD ITEM!">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05429-336" status="A" uom="Each" caseunits="3000" sleeveunits="3000" countunits="Y" freq="M" name="BAG HASH BROWN GQG #5429336">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="05462-012" status="A" uom="Each" caseunits="1690" sleeveunits="65" countunits="Y" freq="D" name="CHICK BITES 26X500G I #5462012">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="05478-072" status="A" uom="Each" caseunits="1000" sleeveunits="0" countunits="Y" freq="M" name="SPOON MCFLURRY SHRTR #5478072">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="05582-067" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="BOX NUGGET 10PC GQG #5582067">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05636-012" status="A" uom="Each" caseunits="1008" sleeveunits="42" countunits="Y" freq="M" name="CUP SUNDAE LARGE #5636012">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05687-027" status="A" uom="Kg's" caseunits="10.08" sleeveunits="0.504" countunits="Y" freq="M" name="PROD GUACAMOLE #5687027">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="05719-012" status="A" uom="Each" caseunits="24" sleeveunits="1" countunits="Y" freq="M" name="MILK CALC CHOCO 250ML #5719012">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="05739-009" status="A" uom="Each" caseunits="36" sleeveunits="12" countunits="Y" freq="M" name="CAF CAKE IND ORANGE #5739009">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="05747-064" status="A" uom="Each" caseunits="36" sleeveunits="12" countunits="Y" freq="M" name="CAF CAKE IND DBL CHOC #5747064">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="05749-027" status="A" uom="Each" caseunits="120" sleeveunits="10" countunits="Y" freq="M" name="BREAD S/D SLICE #5749027">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="05792-054" status="A" uom="Bottles" caseunits="2" sleeveunits="1" countunits="Y" freq="M" name="CAF SYRUP SUGAR #5792054   ">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="05846-024" status="A" uom="Each" caseunits="12" sleeveunits="0" countunits="Y" freq="W" name="JUICE PEACH 300ML NAT #5846024">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="05875-015" status="A" uom="Each" caseunits="88" sleeveunits="44" countunits="Y" freq="M" name="BEEF PATTIES 3:1 ANG O#5875015">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="05905-024" status="A" uom="Packets" caseunits="8" sleeveunits="1" countunits="Y" freq="M" name="COND SEASONING ANGUS #5905024">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05912-060" status="A" uom="Each" caseunits="300" sleeveunits="50" countunits="Y" freq="M" name="BOWL SALAD PAPER #5912060">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05912-075" status="A" uom="Each" caseunits="360" sleeveunits="45" countunits="Y" freq="M" name="BOWL PAPER SMALL #5912075">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05912-078" status="A" uom="Each" caseunits="300" sleeveunits="50" countunits="Y" freq="W" name="BOWL SALAD CYT KRAFT #5912078">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05966-001" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="W" name="BOX WRAP ENGLSH BFST#5966001">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05966-022" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="BOX MCWRAP GENERIC #5966022">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05966-058" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="BOX MCWRAP STEAK#5966058">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05966-064" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="BOX MCWRAP CRSPY CHICK#5966064">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05966-088" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="BOX MCWRAP GRILL CHICK#5966088">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05966-099" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="BOX WRAP BET BFST #5966099">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="05989-003" status="A" uom="Each" caseunits="48" sleeveunits="4" countunits="Y" freq="W" name="CAF VANILLA TWIST #5989003">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="06008-042" status="A" uom="Litres" caseunits="7" sleeveunits="1" countunits="Y" freq="M" name="FRAP MIX CARAMEL LD&amp;D #6008042">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="06053-027" status="A" uom="Each" caseunits="48" sleeveunits="24" countunits="Y" freq="M" name="BUN BRIOCHE CTN LIV #6053027">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="06087-093" status="A" uom="Each" caseunits="480" sleeveunits="20" countunits="Y" freq="M" name="CUP COFF EP/PR STD #6087093">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="06247-033" status="A" uom="Litres" caseunits="6" sleeveunits="0.5" countunits="Y" freq="M" name="SAUCE BIM COFFEE K #6247033">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="06274-009" status="A" uom="Each" caseunits="72" sleeveunits="6" countunits="Y" freq="M" name="CAF SCONE PLAIN 72 #6274009">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="06390-069" status="A" uom="Each" caseunits="360" sleeveunits="45" countunits="Y" freq="M" name="BOWL PAPER GDN SALAD #6390069">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="06420-042" status="A" uom="Packets" caseunits="4" sleeveunits="1" countunits="Y" freq="M" name="PROD SPINACH 4X150G G #6420042">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="06472-544" status="A" uom="Each" caseunits="1000" sleeveunits="1000" countunits="Y" freq="M" name="BAG B BRAND AMBITION #6472544">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="06619-012" status="A" uom="Packets" caseunits="8" sleeveunits="1" countunits="Y" freq="M" name="CAF GLAZE PSTRY (NEW) #6619012">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="06723-066" status="A" uom="Each" caseunits="2000" sleeveunits="1000" countunits="Y" freq="M" name="BAG MCBITES 10PC #6723066">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="06755-075" status="A" uom="Each" caseunits="120" sleeveunits="20" countunits="Y" freq="M" name="CAF TEABAGS EARL GREY #6755075">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="06766-024" status="A" uom="Each" caseunits="270" sleeveunits="135" countunits="Y" freq="D" name="BEEF SAUSAGE 9:1 OSI #6766024">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="06778-012" status="A" uom="Each" caseunits="27" sleeveunits="3" countunits="Y" freq="M" name="CAF CROISS CHOCOLATE #6778012">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="06780-037" status="A" uom="Each" caseunits="72" sleeveunits="12" countunits="Y" freq="M" name="CAF MACARON CHOCOLATE #6780037">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="06780-082" status="A" uom="Packets" caseunits="100" sleeveunits="1" countunits="Y" freq="M" name="COOKIE TWIN 100X25G #6780082">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="06781-031" status="A" uom="Each" caseunits="72" sleeveunits="12" countunits="Y" freq="M" name="CAF MACARON PINE COCO #6781031">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="06880-025" status="A" uom="Each" caseunits="36" sleeveunits="12" countunits="Y" freq="M" name="CAF CAKE IND CARROT #6880025">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="06928-051" status="A" uom="Kg's" caseunits="6.4" sleeveunits="0.4" countunits="Y" freq="M" name="TOPPING PIECES KIT KAT#6928051">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="07129-012" status="A" uom="Each" caseunits="3000" sleeveunits="50" countunits="Y" freq="M" name="SPOON SMALL SUNDAE #7129012">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="07209-021" status="A" uom="Each" caseunits="108" sleeveunits="12" countunits="Y" freq="M" name="CAF MUF AP&amp;CIN MINI #7209021">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="07209-060" status="A" uom="Each" caseunits="24" sleeveunits="6" countunits="Y" freq="M" name="CAF MUF WNUTCARROTBRN #7209060">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="07251-018" status="A" uom="Packets" caseunits="4" sleeveunits="0" countunits="Y" freq="M" name="COND ICING SUGAR #7251018">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="07268-003" status="A" uom="Each" caseunits="24" sleeveunits="6" countunits="Y" freq="M" name="CAF FRIAND RASP 24  #7268003">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="07314-021" status="A" uom="Each" caseunits="1320" sleeveunits="55" countunits="Y" freq="M" name="CUP CLEAR SMALL #7314021">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="07333-094" status="A" uom="Each" caseunits="1000" sleeveunits="50" countunits="Y" freq="M" name="CUP MEDIUM 16OZ CYT #7333094">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="07421-069" status="A" uom="Bottles" caseunits="6" sleeveunits="1" countunits="Y" freq="D" name="CAF SYRUP CARAMEL 6PK #7421069">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="07422-003" status="A" uom="Bottles" caseunits="2" sleeveunits="0" countunits="Y" freq="M" name="CAF SYRUP WHTCHOC 2PK #7422003">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="07422-051" status="A" uom="Litres" caseunits="7" sleeveunits="1" countunits="Y" freq="M" name="FRAP MIX CHOC LD&amp;D #7422051">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="07422-054" status="A" uom="Litres" caseunits="6" sleeveunits="0.5" countunits="Y" freq="M" name="SAUCE BIM CHOCOLATE K #7422054">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="07560-081" status="A" uom="Litres" caseunits="6" sleeveunits="0.5" countunits="Y" freq="M" name="SAUCE BIM CARAMEL K #7560081">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="07634-132" status="A" uom="Each" caseunits="1000" sleeveunits="0" countunits="Y" freq="M" name="WRAP W/MEAL MCMUFFIN #7634132">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="08054-003" status="A" uom="Bottles" caseunits="6" sleeveunits="1" countunits="Y" freq="M" name="SAUCE CHOC KIT KAT N #8054003">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="08170-036" status="A" uom="Each" caseunits="300" sleeveunits="50" countunits="Y" freq="M" name="LID SALAD PLASTIC #8170036">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="08233-003" status="A" uom="Each" caseunits="40" sleeveunits="2" countunits="Y" freq="M" name="CAF DONUT STRAW 40 #8233003">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="08296-806" status="A" uom="Each" caseunits="400" sleeveunits="1" countunits="Y" freq="M" name="BOX H/M GENERIC HAPPY #8296806">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="08347-096" status="A" uom="Each" caseunits="24" sleeveunits="0" countunits="Y" freq="M" name="WATER C/RIDGE 600M #8347096">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="08426-063" status="A" uom="Each" caseunits="80" sleeveunits="1" countunits="Y" freq="M" name="DRESSING THAI #8426063">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="08434-024" status="A" uom="Kg's" caseunits="3.61" sleeveunits="0.451" countunits="Y" freq="M" name="CAF BERRIES MIXED #8434024">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="08450-006" status="A" uom="Each" caseunits="640" sleeveunits="40" countunits="Y" freq="M" name="TORTILLA STRIPS 125G #8450006">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="08482-015" status="A" uom="Litres" caseunits="12" sleeveunits="1" countunits="Y" freq="M" name="MILK SOY SO GOOD12X1L #8482015">
+<Location locid="22" description="Milk Fridge" Order="1210"/>
+</item>
+<item id="08526-009" status="A" uom="Each" caseunits="640" sleeveunits="40" countunits="Y" freq="M" name="CHEESE COLBY JACK #8526009">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="08530-012" status="A" uom="Each" caseunits="24" sleeveunits="12" countunits="Y" freq="M" name="CAF LOAF BANAN 2X12 C #8530012">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="12" description="Cafe " Order="210"/>
+</item>
+<item id="08537-000" status="A" uom="Each" caseunits="600" sleeveunits="0" countunits="Y" freq="M" name="BOWL SALAD GARDEN #8537000">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="08538-000" status="A" uom="Each" caseunits="600" sleeveunits="0" countunits="Y" freq="M" name="LID SALAD GARDEN #8538000">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="08549-021" status="A" uom="Each" caseunits="12" sleeveunits="1" countunits="Y" freq="M" name="APPLE SLICES 12X60G P #8549021">
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="12" description="Cafe " Order="210"/>
+<Location locid="18" description="d/thru fridge" Order="810"/>
+</item>
+<item id="08672-010" status="A" uom="Each" caseunits="72" sleeveunits="9" countunits="Y" freq="W" name="BUN CIABATTA 72 #8672010">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="08722-030" status="A" uom="Litres" caseunits="4.32" sleeveunits="0.72" countunits="Y" freq="M" name="SYRUP GINGER BEER 6PK #8722030">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="08797-009" status="A" uom="Each" caseunits="1600" sleeveunits="250" countunits="Y" freq="M" name="PORTION CUP &amp; LID SET #8797009">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="08895-003" status="A" uom="Kg's" caseunits="6" sleeveunits="1" countunits="Y" freq="M" name="CAF POWDER CHAI #8895003">
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+</item>
+<item id="08966-027" status="A" uom="Litres" caseunits="4.32" sleeveunits="0.72" countunits="Y" freq="M" name="SYRUP LEMON LIME 6PK #8966027">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="08986-069" status="A" uom="Each" caseunits="200" sleeveunits="50" countunits="Y" freq="M" name="PROD LETT LEAF GSF #8986069">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="09600-282" status="A" uom="Each" caseunits="2000" sleeveunits="2000" countunits="Y" freq="M" name="TRIAL MOIST TOWELETTE #9600282">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="09600-295" status="A" uom="Each" caseunits="500" sleeveunits="0" countunits="Y" freq="M" name="TRIAL FRIES INSERT CYT#9600295">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="09700-469" status="A" uom="Each" caseunits="2000" sleeveunits="1" countunits="Y" freq="M" name="T/MAT CYT/MIN #97004_OLD ITEM!">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="09991-006" status="A" uom="Each" caseunits="180" sleeveunits="30" countunits="Y" freq="D" name="PROD EGGS NS 6X30X55G #9991006">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="09991-091" status="A" uom="Each" caseunits="96" sleeveunits="8" countunits="Y" freq="M" name="PROD P/APPLE 12X432G #9991091">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="09991-134" status="A" uom="Each" caseunits="90" sleeveunits="0" countunits="Y" freq="M" name="PROD BANANA LRG FRESH #9991134">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="09992-003" status="A" uom="Kg's" caseunits="10" sleeveunits="2.5" countunits="Y" freq="M" name="PROD LETT GSF 10K #9992003">
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="09992-015" status="A" uom="Each" caseunits="12" sleeveunits="0" countunits="Y" freq="M" name="PROD CUCUMBERS 12 #9992015">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="09993-005" status="A" uom="Kg's" caseunits="10" sleeveunits="0" countunits="Y" freq="M" name="PROD TOMATO 10KG #9993005">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="09993-011" status="A" uom="Each" caseunits="115" sleeveunits="0" countunits="Y" freq="M" name="PROD GRAPE TOM 1KG P #9993011">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="09996-184" status="A" uom="Each" caseunits="100" sleeveunits="1" countunits="Y" freq="M" name="TRIAL FLAG SKEWER CYT #9996184">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="1010" status="A" uom="Each" caseunits="60" sleeveunits="30" countunits="Y" freq="D" name="BUN REG 60 #1010">
+<Location locid="2" description="Buns" Order="2"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="10282-000" status="A" uom="Litres" caseunits="8" sleeveunits="1" countunits="Y" freq="M" name="SYRUP BIB MANGO/PINE #10282000">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="10386-006" status="A" uom="Each" caseunits="72" sleeveunits="12" countunits="Y" freq="M" name="CAF MACARON SLTD CRML#10386006">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="10387-003" status="A" uom="Each" caseunits="72" sleeveunits="12" countunits="Y" freq="M" name="CAF MACARON CHOC MINT#10387003">
+<Location locid="3" description="Freezer" Order="4"/>
+</item>
+<item id="10863-000" status="A" uom="Each" caseunits="80" sleeveunits="1" countunits="Y" freq="M" name="DRESSING PORTUGUESE #10863000">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="10995-003" status="A" uom="Kg's" caseunits="5.86" sleeveunits="0.489" countunits="Y" freq="M" name="CAF MUESLI 12X500G F #10995003">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="11464-147" status="A" uom="Each" caseunits="150" sleeveunits="1" countunits="Y" freq="M" name="NCHM WK1A KOWSKI LAU #11464147">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="11502-003" status="A" uom="Each" caseunits="150" sleeveunits="1" countunits="Y" freq="M" name="NCHM WK1B RAQUEL/GLAS#11502003">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="11502-012" status="A" uom="Each" caseunits="150" sleeveunits="1" countunits="Y" freq="M" name="NCHM WK3A ELEMENT/JET#11502012">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="11583-000" status="A" uom="Each" caseunits="12" sleeveunits="0" countunits="Y" freq="W" name="JUICE LEMON 300ML NAT#11583000">
+<Location locid="4" description="Walk-in" Order="5"/>
+</item>
+<item id="11644-459" status="A" uom="Each" caseunits="150" sleeveunits="0" countunits="Y" freq="M" name="NCHM WK7A VAMPIRE #11644459">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="11858-000" status="A" uom="Each" caseunits="3000" sleeveunits="1000" countunits="Y" freq="M" name="LINER BOARD CYT #11858000">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="11869-000" status="A" uom="Each" caseunits="150" sleeveunits="0" countunits="Y" freq="M" name="NCHM WK1A MEGA MACH #11869000">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="11869-003" status="A" uom="Each" caseunits="150" sleeveunits="0" countunits="Y" freq="M" name="NCHM WK1B LTE DOLPHIN#11869003">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="12022-000" status="A" uom="Litres" caseunits="15" sleeveunits="15" countunits="Y" freq="M" name="SYRUP FCB BLUEBERRY #12022000">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="12152-000" status="A" uom="Each" caseunits="400" sleeveunits="1" countunits="Y" freq="M" name="BOX H/M DK BOOKS #12152000">
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+</item>
+<item id="12257-000" status="A" uom="Kg's" caseunits="6.05" sleeveunits="0.504" countunits="Y" freq="W" name="TOPPING CREME EGG #12257000">
+<Location locid="5" description="Stock Room" Order="3"/>
+</item>
+<item id="14075" status="A" uom="Each" caseunits="60" sleeveunits="30" countunits="Y" freq="D" name="MUFFIN ENGLISH 60 #14075">
+<Location locid="2" description="Buns" Order="2"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="2020" status="A" uom="Each" caseunits="30" sleeveunits="1" countunits="Y" freq="D" name="BUN BIG MAC 30 #2020">
+<Location locid="2" description="Buns" Order="2"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="2333" status="A" uom="Each" caseunits="60" sleeveunits="30" countunits="Y" freq="D" name="BUN QTR 4IN FSH 60 #2333">
+<Location locid="2" description="Buns" Order="2"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+<item id="366" status="A" uom="Litres" caseunits="2" sleeveunits="0" countunits="Y" freq="W" name="SKIM 2L $2.10 #366">
+<Location locid="12" description="Cafe " Order="210"/>
+<Location locid="18" description="d/thru fridge" Order="810"/>
+<Location locid="22" description="Milk Fridge" Order="1210"/>
+</item>
+<item id="447" status="A" uom="Litres" caseunits="3" sleeveunits="0" countunits="Y" freq="W" name="MILK 3L $2.80 #447">
+<Location locid="18" description="d/thru fridge" Order="810"/>
+<Location locid="22" description="Milk Fridge" Order="1210"/>
+</item>
+<item id="760" status="A" uom="Litres" caseunits="2" sleeveunits="0" countunits="Y" freq="W" name="SKIM 2L $1.75 #760">
+<Location locid="12" description="Cafe " Order="210"/>
+<Location locid="18" description="d/thru fridge" Order="810"/>
+<Location locid="22" description="Milk Fridge" Order="1210"/>
+</item>
+<item id="91150" status="A" uom="Litres" caseunits="10" sleeveunits="1" countunits="Y" freq="W" name="MILK FC 10LTR PROCAL #91150">
+<Location locid="18" description="d/thru fridge" Order="810"/>
+<Location locid="22" description="Milk Fridge" Order="1210"/>
+</item>
+<item id="9991123" status="A" uom="Each" caseunits="48" sleeveunits="24" countunits="Y" freq="D" name="BUN 4.5 IMP C/CHV FRSH#9991123">
+<Location locid="2" description="Buns" Order="2"/>
+<Location locid="10" description="Back Area" Order="10"/>
+</item>
+</items>
+<Locations>
+<Location locid="6" description="Ops Cupboard" Order="1"/>
+<Location locid="2" description="Buns" Order="2"/>
+<Location locid="5" description="Stock Room" Order="3"/>
+<Location locid="3" description="Freezer" Order="4"/>
+<Location locid="4" description="Walk-in" Order="5"/>
+<Location locid="1" description="Unallocated" Order="6"/>
+<Location locid="7" description="Office Supplies" Order="7"/>
+<Location locid="8" description="Dinning Room" Order="8"/>
+<Location locid="9" description="Front Counter" Order="9"/>
+<Location locid="10" description="Back Area" Order="10"/>
+<Location locid="11" description="Cafe Cupboard" Order="110"/>
+<Location locid="12" description="Cafe " Order="210"/>
+<Location locid="13" description="coke syrups" Order="310"/>
+<Location locid="14" description="cups/lids" Order="410"/>
+<Location locid="15" description="stock room left" Order="510"/>
+<Location locid="16" description="stock room centre" Order="610"/>
+<Location locid="17" description="stock room middle" Order="710"/>
+<Location locid="18" description="d/thru fridge" Order="810"/>
+<Location locid="19" description="stock room right" Order="910"/>
+<Location locid="20" description="cafe fridge " Order="1010"/>
+<Location locid="21" description="Stock Room" Order="1110"/>
+<Location locid="22" description="Milk Fridge" Order="1210"/>
+</Locations>
+</inventoryExport>

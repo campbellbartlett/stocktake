@@ -1,0 +1,20 @@
+<inventoryImport timestamp="05/05/2015" counttime="18/01/1990 11:59:59 PM" id="001">
+    <items>
+            <item id="2020" count="32.00">
+                <locationCount locid="2" caseCount="30.00" sleeveCount="1.00" looseCount="1.00"/>
+                <locationCount locid="10" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+            </item>
+            <item id="2333" count="91.00">
+                <locationCount locid="2" caseCount="60.00" sleeveCount="30.00" looseCount="1.00"/>
+                <locationCount locid="10" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+            </item>
+            <item id="9991095" count="73.00">
+                <locationCount locid="2" caseCount="48.00" sleeveCount="24.00" looseCount="1.00"/>
+                <locationCount locid="10" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+            </item>
+            <item id="9991123" count="73.00">
+                <locationCount locid="2" caseCount="48.00" sleeveCount="24.00" looseCount="1.00"/>
+                <locationCount locid="10" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+            </item>
+    </items>
+</inventoryImport>

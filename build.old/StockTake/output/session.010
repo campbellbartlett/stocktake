@@ -1,0 +1,10 @@
+<inventoryImport timestamp="11/06/2015" counttime="2015-06-11 21:29:35" id="010">
+    <items>
+            <item id="08549-021" count="12.00">
+                <locationCount locid="3" caseCount="12.00" sleeveCount="0.00" looseCount="0.00"/>
+                <locationCount locid="4" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+                <locationCount locid="12" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+                <locationCount locid="18" caseCount="0.00" sleeveCount="0.00" looseCount="0.00"/>
+            </item>
+    </items>
+</inventoryImport>
