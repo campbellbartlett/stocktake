@@ -5,8 +5,7 @@ brother, Bottle!
 
 If it wasn't for this project my Python skills would not be as sharp as they are today.
 
-It also taught my the power of xml (and by extension JSON) for transferring data between different systems
-or platforms.
+I also made us of the power of xml for transferring data between my solution and the PC which stored the actual stocktake.
 
 The project read an xml file that described the layout, positioning and other info related to
 items in a McDonald's stock area. The user could then enter stock counts for each item as they
